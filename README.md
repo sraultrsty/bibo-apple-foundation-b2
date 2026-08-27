@@ -40,6 +40,14 @@
 
 ---
 
+##Screenshots
+
+<img width="204" height="449" alt="Sugar_Summary" src="https://github.com/user-attachments/assets/4cef4e90-a964-42ba-b27c-da0dc2ccac6a" />
+<img width="855" height="494" alt="Add_Drink" src="https://github.com/user-attachments/assets/37ac901a-0373-4d83-a868-e71b4e61e79e" />
+<img width="836" height="448" alt="History" src="https://github.com/user-attachments/assets/511ad420-acf5-42b7-a7c5-40bba009f1d8" />
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
